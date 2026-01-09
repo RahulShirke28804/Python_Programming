@@ -1,3 +1,13 @@
+'''
+    This program explains:
+
+    List elements can be modified using indexing
+
+    Tuple elements cannot be modified (immutable)
+
+    Set does not support indexing
+'''
+
 # List - Duplicate
 Value1 = [10,20,30,40,10]
 print(Value1[0])            # 10
