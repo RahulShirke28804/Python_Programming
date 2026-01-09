@@ -1,3 +1,10 @@
+'''
+    This program shows that values received from input() 
+    are strings by default, then converts them to integers 
+    using int() to perform addition.
+'''
+
+
 print("Enter first number : ")
 No1 = input()
 
