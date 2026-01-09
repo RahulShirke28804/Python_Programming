@@ -1,3 +1,8 @@
+'''
+    This program takes numeric input by directly converting input 
+    to integers, avoiding explicit type conversion later, and performs addition.
+'''
+
 print("Enter first number : ")
 No1 = int(input())
 
