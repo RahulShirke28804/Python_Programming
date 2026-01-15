@@ -1,8 +1,11 @@
-# Iteration
-
 '''
-    Demonstrates a for loop to print numbers within a specified range. 
+    Demonstrates basic sequential execution by printing numbers line by line without using loops.
 '''
 
-for i in range(1,6):
-    print(i)
+print("1")
+print("2")
+print("3")
+print("4")
+print("5")
+
+
